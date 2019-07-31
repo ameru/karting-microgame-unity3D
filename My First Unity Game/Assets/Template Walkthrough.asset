@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Template Walkthrough
+  m_EditorClassIdentifier:
+  icon: {fileID: 2800000, guid: bccfad5750124e04c9a10350725dd9fc, type: 3}
+  title: Your First 6 Steps to Creating a Game
+  description: 'Start building your first game now. Have fun clicking through
+    these 6 helpful steps and you will have the foundation to modifying your
+    first game in less than 30 minutes.'
+  loadedLayout: 1
+  TextColorMainDarkSkin: {r: 1, g: 1, b: 1, a: 1}
+  TextColorMainLightSkin: {r: 0, g: 0, b: 0, a: 1}
+  TextColorSecondaryDarkSkin: {r: 1, g: 1, b: 1, a: 1}
+  TextColorSecondaryLightSkin: {r: 0, g: 0, b: 0, a: 0.7}
+  TextTitleSize: 13
+  TextProjectDescriptionSize: 12
+  TextHeadingSize: 13
+  TextBodySize: 12
+  ButtonTextSize: 12
+  sections:
+  - orderInView: 0
+    heading: 1. Play Testing
+    text: >
+      Play your game and learn how to make it your own.
+    linkText:
+    url:
+    buttonText: 'Let’s Go'
+    tutorial: {fileID: 11400000, guid: 92d21b44a68004daebe1f6c4e03b487a, type: 2}
+  - orderInView: 2
+    heading: 2. Getting to know the Editor
+    text: >
+      Master the main controls, views and windows in the Unity interface.
+    linkText:
+    url:
+    buttonText: 'Show Me'
+    tutorial: {fileID: 11400000, guid: ef019b20e49b14cfca4e98ecf5fd345d, type: 2}
+  - orderInView: 4
+    heading: 3. Editing Colors
+    text: >
+      Quickly learn how to change colors in Unity, starting with your Kart.
+    linkText:
+    url:
+    buttonText: 'Let’s Color'
+    tutorial: {fileID: 11400000, guid: 83255933b1f9a13428ca582620d979c8, type: 2}
+  - orderInView: 6
+    heading: 4. Adding Stuff
+    text: >
+      Learn about Prefabs and how they make it easy to build and add
+      things to your game.
+    linkText:
+    url:
+    buttonText: 'Let’s Add'
+    tutorial: {fileID: 11400000, guid: 351b553575cb34b12945f5996095329d, type: 2}
+  - orderInView: 8
+    heading: 5. Build and Play Your Game
+    text: >
+      See how to build and create an executable of your game you can play on
+      your desktop.
+    linkText:
+    url:
+    buttonText: 'Let’s Build'
+    tutorial: {fileID: 11400000, guid: 5a1808b6ca2b3422381c2337d4a493b3, type: 2}
+  - orderInView: 10
+    heading: Keep Creating
+    text: Add rainbows, witches hats, flames to your game, and more.
+    linkText: 'I’m Ready'
+    url: https://learn.unity.com/project/karting-template?courseId=5c59cf22edbc2a001f59aa5d
+    buttonText:
+    tutorial: {fileID: 0}
