@@ -18,6 +18,7 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 * CollisionFence Effect
 * KartObject speed accelerated
 * in-game billboards with dank memes
+* main menu description updated
 ## Issues I need to fix
 * Lower bounce rate to 0.7
 * fix drift hydroplaning
@@ -25,3 +26,4 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 * insert signal when kart is going in wrong direction
 * collect Jeff heads!1!1!
 * turn off neon on trees (we sticking with dat basic green)
+* find out how to change content text in UI canvas
