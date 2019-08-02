@@ -23235,6 +23235,11 @@ PrefabInstance:
       propertyPath: m_textInfo.lineCount
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: 4009130065942123197, guid: 7f02e158c0e4d4ab09f78bb31f78bab8,
+        type: 3}
+      propertyPath: m_text
+      value: Welcome to a less boujee Mario Kart!
+      objectReference: {fileID: 0}
     - target: {fileID: 2722743761088141158, guid: 7f02e158c0e4d4ab09f78bb31f78bab8,
         type: 3}
       propertyPath: m_havePropertiesChanged
@@ -23299,6 +23304,23 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.lineCount
       value: 191
+      objectReference: {fileID: 0}
+    - target: {fileID: 2550566963638454825, guid: 7f02e158c0e4d4ab09f78bb31f78bab8,
+        type: 3}
+      propertyPath: m_text
+      value: 'Thanks for QA Testing my first karting game! hehe
+
+
+        - Use Arrow keys to Move
+
+        - Space bar to Jump
+
+        - Hold the Space bar to Drift
+
+        - Press the R key to Reset the Kart if you get stuck
+
+
+        - Press Escape to unpause and start playing!'
       objectReference: {fileID: 0}
     - target: {fileID: 4858264529848534282, guid: 7f02e158c0e4d4ab09f78bb31f78bab8,
         type: 3}
@@ -23591,6 +23613,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4009130066412650613, guid: 7f02e158c0e4d4ab09f78bb31f78bab8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Respawn
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7f02e158c0e4d4ab09f78bb31f78bab8, type: 3}
