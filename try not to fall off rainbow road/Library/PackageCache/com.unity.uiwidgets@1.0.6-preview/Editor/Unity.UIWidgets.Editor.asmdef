@@ -1,0 +1,24 @@
+{
+    "name": "Unity.UIWidgets.Editor",
+    "references": [
+        "Unity.UIWidgets"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UGUI_EXISTS"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "",
+            "define": "UGUI_EXISTS"
+        }
+    ]
+}

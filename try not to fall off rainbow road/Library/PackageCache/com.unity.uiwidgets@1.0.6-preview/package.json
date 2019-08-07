@@ -1,0 +1,40 @@
+{
+  "name": "com.unity.uiwidgets",
+  "displayName": "UIWidgets",
+  "version": "1.0.6-preview",
+  "unity": "2018.3",
+  "description": "UIWidgets allows you to build beautiful cross-platform apps through Unity",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.uiwidgets.git",
+    "revision": "e6f8c8c26454620c26248f6f3770c37984c44efb"
+  },
+  "samples": [
+    {
+      "displayName": "Material Sample",
+      "description": "Material Sample.",
+      "path": "Samples~/MaterialSample"
+    },
+    {
+      "displayName": "Redux Sample",
+      "description": "Sample usage of Redux & UIWidgets",
+      "path": "Samples~/ReduxSample"
+    },
+    {
+      "displayName": "UIWidgetSample",
+      "description": "Sample usage of UI Wideget",
+      "path": "Samples~/UIWidgetSample"
+    },
+    {
+      "displayName": "UIWidgets Gallery",
+      "description": "UIWidgets Gallery.",
+      "path": "Samples~/UIWidgetsGallery"
+    },
+    {
+      "displayName": "UIWidgets Theatre",
+      "description": "UIWidgets Theatre.",
+      "path": "Samples~/UIWidgetsTheatre"
+    }
+  ]
+}

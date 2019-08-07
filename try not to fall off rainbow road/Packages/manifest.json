@@ -4,6 +4,7 @@
     "com.unity.analytics": "3.2.2",
     "com.unity.cinemachine": "2.2.8",
     "com.unity.collab-proxy": "1.2.15",
+    "com.unity.connect.share": "1.0.4-preview",
     "com.unity.learn.iet-framework": "0.1.16-preview",
     "com.unity.package-manager-ui": "2.0.7",
     "com.unity.postprocessing": "2.1.4",
