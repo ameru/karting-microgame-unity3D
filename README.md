@@ -5,9 +5,9 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 Hi there! If you want to help QA test my game on your desktop/laptop, play "Mariowo Kart on a Budget" here: https://connect.unity.com/p/mariowo-kart-on-a-budget
 
 ## Game Controls
-* press "up" arrow to accelerate
-* press "left" and "right" arrows to turn
-* press "down" arrow to go backwards
+* press "up" key to accelerate
+* press "left" and "right" keys to turn
+* press "down" key to go backwards
 * press "space" key to drift
 ## Stack
 * C# for game environment
@@ -28,7 +28,6 @@ Hi there! If you want to help QA test my game on your desktop/laptop, play "Mari
 * autoreset game once 3 laps completed
 * insert signal when kart is going in wrong direction
 * collect Jeff heads!1!1!
-* turn off neon on trees (we sticking with dat basic green)
 * find out how to change content text in UI canvas
 * make leaderboard at end game to build motive
 * create "enter name" option in the beginning
