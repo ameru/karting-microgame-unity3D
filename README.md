@@ -27,3 +27,5 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 * collect Jeff heads!1!1!
 * turn off neon on trees (we sticking with dat basic green)
 * find out how to change content text in UI canvas
+* make leaderboard at end game to build motive
+* create "enter name" option in the beginning
