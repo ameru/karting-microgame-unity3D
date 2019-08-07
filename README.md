@@ -3,6 +3,7 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 
 
 Hi there! If you want to help QA test my game on your desktop/laptop, play "Mariowo Kart on a Budget" here: https://connect.unity.com/p/mariowo-kart-on-a-budget
+Feel free to leave comments on how I can make the gameplay better, and I will update my documentation accordingly :)
 
 ## Game Controls
 * press "up" key to accelerate
@@ -11,6 +12,7 @@ Hi there! If you want to help QA test my game on your desktop/laptop, play "Mari
 * press "space" key to drift
 ## Stack
 * C# for game environment
+* C++ for back-end game engine
 * ASP.NET for server-side framework
 * CSS for game design
 ## Added Mods (will continue to update)
