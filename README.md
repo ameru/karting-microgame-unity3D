@@ -15,6 +15,7 @@ Feel free to leave comments on how I can make the gameplay better, and I will up
 * C++ for back-end game engine
 * ASP.NET for server-side framework
 * CSS for game design
+* Real-time leaderboard built with PubNub API
 ## Added Mods (will continue to update)
 * neon hat prefabs
 * rear and front wheel light trails
@@ -24,12 +25,12 @@ Feel free to leave comments on how I can make the gameplay better, and I will up
 * KartObject speed accelerated
 * in-game billboards with dank memes
 * main menu description updated
+* real-time leaderboard end game
 ## Issues I need to fix
 * Lower bounce rate to 0.7
 * fix drift hydroplaning
 * autoreset game once 3 laps completed
 * insert signal when kart is going in wrong direction
 * collect Jeff heads!1!1!
-* find out how to change content text in UI canvas
-* make leaderboard at end game to build motive
+* figure out how to change content text in UI canvas
 * create "enter name" option in the beginning
