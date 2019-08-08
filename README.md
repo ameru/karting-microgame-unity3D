@@ -15,7 +15,7 @@ Feel free to leave comments on how I can make the gameplay better, and I will up
 * C++ for back-end game engine
 * ASP.NET for server-side framework
 * CSS for game design
-* Real-time leaderboard built with PubNub API
+* Real-time leaderboard built with dreamlo.com API (employs simple HTTP GET requests)
 ## Added Mods (will continue to update)
 * neon hat prefabs
 * rear and front wheel light trails
