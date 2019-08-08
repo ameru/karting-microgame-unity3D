@@ -57,9 +57,6 @@
      <Compile Include="Assets\ChallengeAssets\ChallengeResources\Scripts\BallGame\EmitParticlesOnBallBounce.cs" />
      <Compile Include="Assets\ChallengeAssets\ChallengeResources\Scripts\Kart\EmitParticlesOnKartBounce.cs" />
      <Compile Include="Assets\ChallengeAssets\ChallengeResources\Scripts\Platformer\EmitParticlesOnLand.cs" />
-     <Compile Include="Assets\dreamlo\dreamloLeaderBoard.cs" />
-     <Compile Include="Assets\dreamlo\dreamloPromoCode.cs" />
-     <Compile Include="Assets\dreamlo\LeaderBoardSample.cs" />
      <Compile Include="Assets\KartTemplate\Scripts\KartSystems\Inputs\GamepadInput.cs" />
      <Compile Include="Assets\KartTemplate\Scripts\KartSystems\Inputs\IInput.cs" />
      <Compile Include="Assets\KartTemplate\Scripts\KartSystems\Inputs\KeyboardInput.cs" />
@@ -97,7 +94,6 @@
      <Compile Include="Assets\KartTemplate\Scripts\Utilities\ListExtensions.cs" />
      <Compile Include="Assets\KartTemplate\Scripts\Utilities\QuaternionExtensions.cs" />
      <Compile Include="Assets\KartTemplate\Scripts\Utilities\RequireInterfaceAttribute.cs" />
-     <None Include="Assets\dreamlo\README_FIRST.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/KartTemplate/Scenes/SampleScene.unity
+- path: Assets/dreamlo/LeaderBoardSampleScene.unity
   isLoaded: 1
   isActive: 1
