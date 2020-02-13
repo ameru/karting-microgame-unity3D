@@ -1,8 +1,6 @@
 # karting-microgame-unity3D
 messing around with rainbows, flames, and bouncy sparkle trails on unity mods. Mario kart on a budget, if you will.
 
--- I'm currently on a hiatus for this repo right now because I'm trying to work on some web dev projects, but I won't abandon this project! --
-
 Hi there! If you want to help QA test my game on your desktop/laptop, play "Mariowo Kart on a Budget" here: https://connect.unity.com/p/mariowo-kart-on-a-budget
 Feel free to leave comments on how I can make the gameplay better, and I will update my documentation accordingly :)
 
