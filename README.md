@@ -4,6 +4,8 @@ messing around with rainbows, flames, and bouncy sparkle trails on unity mods. M
 Hi there! If you want to help QA test my game on your desktop/laptop, play "Mariowo Kart on a Budget" here: https://connect.unity.com/p/mariowo-kart-on-a-budget
 Feel free to leave comments on how I can make the gameplay better, and I will update my documentation accordingly :)
 
+<img src = https://github.com/ameru/karting-microgame-unity3D/blob/master/karting.png>
+
 ## Game Controls
 * press "up" key to accelerate
 * press "left" and "right" keys to turn
